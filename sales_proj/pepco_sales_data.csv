@@ -1,0 +1,151 @@
+Date,Category,Product,Quantity,Price_per_unit,Total_Amount
+2023-04-25,Bedding,Mattress Protector,4,42.21,168.84
+2023-06-26,Stationery,Notebook,5,126.68,633.4
+2023-08-12,Cleaning Supplies,Detergent,3,13.49,40.47
+2023-08-13,Bedding,Blanket,5,29.48,147.4
+2023-09-09,Home Decor,Lamp,1,57.3,57.3
+2023-02-06,Toys,Puzzle,4,97.3,389.2
+2023-07-31,Stationery,Notebook,1,8.11,8.11
+2023-03-21,Cleaning Supplies,Broom,1,54.37,54.37
+2023-06-25,Bedding,Pillow,1,96.06,96.06
+2023-12-08,Kitchenware,Cutlery,2,24.68,49.36
+2023-09-18,Clothing,Dress,5,108.95,544.75
+2023-05-31,Kitchenware,Mug,4,58.09,232.36
+2023-10-30,Cleaning Supplies,Detergent,2,10.39,20.78
+2023-04-22,Bedding,Duvet,1,90.59,90.59
+2023-05-26,Clothing,Socks,2,148.56,297.12
+2023-12-16,Cleaning Supplies,Mop,5,82.53,412.65
+2023-03-06,Bedding,Duvet,3,113.48,340.44
+2023-10-13,Cleaning Supplies,Broom,2,62.8,125.6
+2023-11-29,Home Decor,Lamp,3,134.04,402.12
+2023-05-07,Kitchenware,Cookware,2,13.33,26.66
+2023-09-17,Bedding,Pillow,5,29.0,145.0
+2023-09-06,Toys,Lego Set,3,85.51,256.53
+2023-09-29,Electronics,Bluetooth Speaker,1,75.03,75.03
+2023-08-13,Toys,Action Figure,2,81.11,162.22
+2023-12-11,Clothing,Jacket,3,116.77,350.31
+2023-07-28,Toys,Doll,3,5.08,15.24
+2023-06-19,Kitchenware,Bowl,1,141.77,141.77
+2023-02-12,Home Decor,Lamp,4,93.29,373.16
+2023-03-15,Clothing,Jeans,2,97.67,195.34
+2023-07-24,Clothing,Jacket,5,16.01,80.05
+2023-10-29,Clothing,Jeans,1,62.95,62.95
+2023-04-11,Toys,Action Figure,1,146.67,146.67
+2023-04-08,Cleaning Supplies,Mop,3,70.92,212.76
+2023-11-28,Cleaning Supplies,Broom,5,137.55,687.75
+2023-08-09,Stationery,Sticky Notes,5,96.59,482.95
+2023-09-29,Stationery,Notebook,3,59.57,178.71
+2023-05-16,Clothing,Jeans,5,80.39,401.95
+2023-09-03,Electronics,Bluetooth Speaker,4,28.37,113.48
+2023-03-02,Toys,Lego Set,4,96.33,385.32
+2023-01-02,Electronics,Bluetooth Speaker,3,99.45,298.35
+2023-06-08,Cleaning Supplies,Detergent,4,20.22,80.88
+2023-10-15,Stationery,Pen Set,3,115.09,345.27
+2023-01-31,Home Decor,Wall Art,4,71.02,284.08
+2023-04-26,Cleaning Supplies,Disinfectant Spray,5,149.59,747.95
+2023-12-08,Kitchenware,Cutlery,3,149.09,447.27
+2023-05-05,Clothing,Dress,3,137.51,412.53
+2023-08-02,Stationery,Pen Set,3,143.14,429.42
+2023-08-10,Clothing,Jeans,5,120.49,602.45
+2023-05-19,Kitchenware,Plates Set,5,102.54,512.7
+2023-09-15,Toys,Action Figure,4,112.71,450.84
+2023-08-25,Bedding,Duvet,1,85.13,85.13
+2023-05-23,Electronics,USB Cable,1,55.22,55.22
+2023-12-25,Stationery,Notebook,1,8.73,8.73
+2023-06-03,Electronics,Phone Charger,5,95.14,475.7
+2023-08-15,Kitchenware,Plates Set,5,36.39,181.95
+2023-11-17,Toys,Puzzle,2,71.74,143.48
+2023-03-21,Kitchenware,Cutlery,2,49.89,99.78
+2023-02-03,Kitchenware,Cutlery,2,62.65,125.3
+2023-05-16,Stationery,Markers,5,6.19,30.95
+2023-01-21,Clothing,Dress,2,90.55,181.1
+2023-09-23,Cleaning Supplies,Mop,4,75.32,301.28
+2023-12-09,Stationery,Notebook,5,146.34,731.7
+2023-05-15,Toys,Puzzle,5,40.4,202.0
+2023-08-20,Home Decor,Clock,3,89.67,269.01
+2023-03-09,Toys,Action Figure,5,75.37,376.85
+2023-12-31,Kitchenware,Bowl,3,72.2,216.6
+2023-04-14,Stationery,Pen Set,3,117.24,351.72
+2023-12-30,Cleaning Supplies,Broom,4,83.18,332.72
+2023-08-14,Clothing,Jeans,3,111.71,335.13
+2023-08-13,Kitchenware,Bowl,1,94.9,94.9
+2023-11-22,Kitchenware,Cookware,5,93.53,467.65
+2023-10-17,Cleaning Supplies,Detergent,1,59.86,59.86
+2023-01-11,Clothing,Jacket,4,110.11,440.44
+2023-04-17,Clothing,Dress,4,108.46,433.84
+2023-10-02,Stationery,Notebook,2,21.87,43.74
+2023-02-14,Cleaning Supplies,Detergent,2,145.75,291.5
+2023-06-09,Electronics,Phone Charger,5,45.44,227.2
+2023-01-14,Kitchenware,Cookware,5,58.36,291.8
+2023-08-21,Clothing,Dress,2,119.41,238.82
+2023-12-26,Kitchenware,Cutlery,3,64.86,194.58
+2023-05-12,Cleaning Supplies,Detergent,2,135.9,271.8
+2023-12-08,Toys,Lego Set,5,147.84,739.2
+2023-01-02,Cleaning Supplies,Broom,2,14.25,28.5
+2023-08-08,Electronics,Power Bank,3,103.48,310.44
+2023-10-01,Stationery,Markers,2,77.48,154.96
+2023-03-04,Stationery,Pen Set,2,125.98,251.96
+2023-04-14,Home Decor,Picture Frame,2,37.16,74.32
+2023-04-05,Home Decor,Wall Art,1,66.75,66.75
+2023-06-18,Home Decor,Candle,1,128.01,128.01
+2023-05-02,Clothing,Jacket,3,61.79,185.37
+2023-12-19,Home Decor,Picture Frame,2,34.04,68.08
+2023-07-21,Kitchenware,Cookware,4,57.67,230.68
+2023-10-21,Bedding,Mattress Protector,5,60.78,303.9
+2023-11-11,Home Decor,Clock,5,25.16,125.8
+2023-04-28,Stationery,Notebook,1,50.65,50.65
+2023-09-26,Toys,Puzzle,5,100.7,503.5
+2023-01-20,Stationery,Planner,5,63.25,316.25
+2023-05-11,Cleaning Supplies,Mop,3,69.95,209.85
+2023-07-02,Electronics,Headphones,4,64.27,257.08
+2023-03-15,Home Decor,Candle,5,34.27,171.35
+2023-05-12,Bedding,Pillow,3,116.14,348.42
+2023-10-09,Cleaning Supplies,Cleaning Cloth,1,114.37,114.37
+2023-01-17,Electronics,Power Bank,2,115.76,231.52
+2023-02-03,Electronics,Power Bank,3,77.53,232.59
+2023-12-03,Home Decor,Wall Art,4,40.02,160.08
+2023-01-05,Bedding,Bedsheet,2,18.56,37.12
+2023-08-20,Kitchenware,Plates Set,5,39.42,197.1
+2023-03-27,Stationery,Pen Set,1,25.42,25.42
+2023-04-29,Clothing,Dress,4,62.71,250.84
+2023-01-31,Home Decor,Clock,4,27.19,108.76
+2023-03-06,Kitchenware,Cutlery,1,39.44,39.44
+2023-06-24,Stationery,Markers,1,132.57,132.57
+2023-06-22,Clothing,Jeans,1,14.49,14.49
+2023-03-21,Clothing,T-shirt,5,127.74,638.7
+2023-08-24,Cleaning Supplies,Disinfectant Spray,3,70.89,212.67
+2023-11-03,Clothing,T-shirt,5,48.35,241.75
+2023-10-22,Bedding,Pillow,1,141.99,141.99
+2023-01-19,Kitchenware,Plates Set,1,17.79,17.79
+2023-01-21,Bedding,Mattress Protector,1,54.51,54.51
+2023-11-22,Electronics,USB Cable,4,46.83,187.32
+2023-06-09,Home Decor,Clock,4,33.13,132.52
+2023-12-12,Kitchenware,Mug,3,147.96,443.88
+2023-05-19,Home Decor,Candle,3,53.13,159.39
+2023-08-27,Kitchenware,Cookware,4,71.79,287.16
+2023-09-22,Stationery,Markers,4,25.13,100.52
+2023-04-24,Stationery,Planner,5,7.14,35.7
+2023-12-07,Clothing,Socks,4,78.47,313.88
+2023-12-27,Cleaning Supplies,Mop,2,9.07,18.14
+2023-11-10,Toys,Puzzle,4,87.37,349.48
+2023-03-20,Home Decor,Wall Art,1,38.96,38.96
+2023-09-09,Stationery,Sticky Notes,1,116.38,116.38
+2023-03-05,Home Decor,Candle,1,144.89,144.89
+2023-05-15,Home Decor,Wall Art,3,66.95,200.85
+2023-01-07,Clothing,Dress,3,25.74,77.22
+2023-12-19,Toys,Toy Car,3,133.33,399.99
+2023-08-03,Home Decor,Lamp,3,69.53,208.59
+2023-07-18,Stationery,Planner,4,12.07,48.28
+2023-06-30,Electronics,Headphones,4,9.82,39.28
+2023-12-21,Kitchenware,Cookware,1,109.25,109.25
+2023-10-23,Electronics,USB Cable,3,57.74,173.22
+2023-09-09,Electronics,Power Bank,4,29.72,118.88
+2023-01-09,Toys,Toy Car,3,108.08,324.24
+2023-11-16,Clothing,Socks,2,76.41,152.82
+2023-01-31,Bedding,Mattress Protector,2,144.98,289.96
+2023-09-24,Stationery,Notebook,2,29.64,59.28
+2023-04-10,Electronics,USB Cable,4,118.83,475.32
+2023-10-05,Toys,Lego Set,3,66.7,200.1
+2023-05-13,Stationery,Notebook,5,96.16,480.8
+2023-09-30,Home Decor,Clock,3,86.99,260.97
+2023-09-10,Stationery,Pen Set,1,8.29,8.29
